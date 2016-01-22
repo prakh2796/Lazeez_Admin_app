@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lazeez Admin</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_settings">Logout</string>
+</resources>
